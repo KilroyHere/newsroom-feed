@@ -1,0 +1,52 @@
+html {
+	background-color: #E0FEFE;
+	font-family: 'Secular One', sans-serif;
+}
+
+#canvas {
+	box-sizing: border-box;
+	width: 600px;
+	margin: 50px auto;
+	d padding: 40px;
+}
+
+#heading {
+	text-align: center;
+}
+
+h3 {
+	font-size: 25px;
+	padding-top: 10px;
+	margin-bottom: 0;
+	color: #F47D8C;
+}
+
+span {
+	color: #E7E080;
+}
+
+#date {
+	color: #B5EAD7;
+	margin-top: 5px;
+}
+
+ul {
+	list-style: none;
+	font-size: 16px;
+	text-transform: capitalize;
+}
+
+ul a {
+	text-decoration: none;
+	color: #6FACFF;
+	font-weight: 800;
+	font-size: 1.2em;
+}
+
+ul a:hover {
+	text-shadow: 1px 1px lightblue;
+}
+
+#rss-logo {
+	height: 20px;
+}
